@@ -1,0 +1,2 @@
+1- para criar componentes usar o comando ( sempre dentro da pasta app ), comando no terminal é: ng g c nome-componente
+ng serve --o
